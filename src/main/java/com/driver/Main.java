@@ -26,9 +26,9 @@ public class Main
 
 
                 Product p=new Product();
-                System.out.println(p.product(2,5););
-                System.out.println( p.product(1,2,3););
-                System.out.println(p.product(1.5,2.7););
+                System.out.println(p.product(2,5));
+                System.out.println( p.product(1,2,3));
+                System.out.println(p.product(1.5,2.7));
 
 
 
